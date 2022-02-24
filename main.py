@@ -43,7 +43,7 @@ def result():
     print(prediction)
     
     json_dict={
-        "prediction":prediction
+        "prediction(MPG)":prediction
     }   
     
     return jsonify(json_dict)

@@ -23,6 +23,10 @@ This is a Flask web app which predicts efficiency of fuel.
 ## Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Machine Learning and Deep Learning models to get most out of it. I came to know mathematics behind  ANN. Finally it is important to work on application (real world application) to actually make a difference.
 
+## Model perfomance
+RMSE:  3.6024852757925045
+R_square: 0.7618848445277324
+
 ## Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
