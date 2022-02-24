@@ -3,4 +3,4 @@ numpy
 flask~=2.0.3
 tensorflow
 sklearn
-scikit-learn~=1.0.2
+scikit-learn
