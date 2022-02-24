@@ -12,9 +12,9 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://fuel-efficiency-prediction557.herokuapp.com/](https://fuel-efficiency-prediction557.herokuapp.com/)
 
-[![](https://i.imgur.com/nWZluhU.jpg)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://i.imgur.com/nWZluhU.jpg)](https://fuel-efficiency-prediction557.herokuapp.com/)
 
 
 ## Overview
@@ -25,6 +25,7 @@ What to do when you are at home due to this pandemic situation? I started to lea
 
 ## Model perfomance
 RMSE:  3.6024852757925045
+
 R_square: 0.7618848445277324
 
 ## Installation
