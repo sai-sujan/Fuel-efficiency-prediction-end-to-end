@@ -5,6 +5,7 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
+  * [Model perfomance](#model-perfomance)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
